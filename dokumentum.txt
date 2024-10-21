@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Pénzes Dávid
+osztály: 9.F
